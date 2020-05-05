@@ -1,2 +1,12 @@
 # Spring-2020-Applied-Mathematical-Logic
-An easy implementation of a SAT solver to solve satisfiability problems.
+- An easy implementation of a SAT solver to solve satisfiability problems.
+- DONE:
+  - 2 Literal Watching
+  - Recursive DPLL
+  - Chronological Backtracking
+- TODO:
+  - (Conflict Clause Learning)
+  - (Non-Chronological Backtracking)
+  - (Learnt Clause Minimization)
+  - (Phase saving)
+- To be released.
